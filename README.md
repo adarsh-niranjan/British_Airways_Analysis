@@ -12,4 +12,4 @@ The **'Source'** folder contains all the source files from which the Project was
 It is the Tableau packaged workbook file.
 
 ## Details:
-**We will analyse public reviews about their journey with British Airways and how it correlates with other aspects like aircraft type, seating, cabin crew, food, etc. We will also monitor the average rating over time in different time frames and the trend that it follows. The data will then be mapped to each country where British Airways operates. Every element will be interactive and dynamic.**
+**To understand customer sentiment, we will analyze public reviews of British Airways journeys. We will explore correlations between these reviews and factors like aircraft type, seating, cabin crew service, and food quality. Additionally, we will monitor average rating trends across various timeframes and for each country served by British Airways. All data will be presented in an interactive and dynamic format for deeper insights.**
