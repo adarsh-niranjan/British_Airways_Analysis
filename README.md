@@ -3,8 +3,6 @@
 ## *A Tableau project based on British Airways customer review analysis* </br>
 ### Source:
 The **'Source'** folder contains all the source files from which the Project was derived. <br>
-* Countries.csv <br>
-* Reviews.csv <br>
 ### British Airways Analysis.twbx:
 It is the Tableau packaged workbook file.
 ## Details:<br>
