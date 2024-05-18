@@ -6,4 +6,4 @@ The **'Source'** folder contains all the source files from which the Project was
 ### British Airways Analysis.twbx:
 It is the Tableau packaged workbook file.
 ## Details:<br>
-**To understand customer sentiment, we will analyze public reviews of British Airways journeys. We will explore correlations between these reviews and factors like aircraft type, seating, cabin crew service, and food quality. Additionally, we will monitor average rating trends across various timeframes and for each country served by British Airways. All data will be presented in an interactive and dynamic format for deeper insights**
+**This project explored public reviews of British Airways flights in Tableau to understand customer sentiment regarding seating, cabin crew service, and food quality. Leveraged Tableau's functionalities like filters, parameters, and custom maps to explore correlations between reviews and these factors. Additionally, it monitored average rating trends across various timeframes and destinations for deeper insights, presented in interactive dashboards for clear communication.**
